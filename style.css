@@ -1,0 +1,36 @@
+body {
+    background-color: #009de0; 
+}
+.conteiner {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-color: #009de0;
+    background-size: 100%;
+}
+.bg_top {
+    height: 350px;
+    width: 500px;
+    background-image: url(./005814-KS-TV-noFTTB-A2-v-5mm.jpg);
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+.apple {
+    /* border: 2px solid red; */
+    height: 70px;
+    background-image: url(./app-store-apple-google-play-download-png-favpng-4JVPjAett8h2RDPDTY0ETSUH0.jpg);
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+}
+
+.android {
+    /* border: 2px solid black; */
+    height: 70px;
+    background-image: url(./play-store-apple-google-play-download-png-favpng-4JVPjAett8h2RDPDTY0ETSUH0.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
