@@ -33,4 +33,19 @@ body {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 50%;
+    margin-bottom: 20px;
+}
+
+.video {
+    text-align: center;
+    color: white;
+}
+
+.video .btn {
+    width: 240px;
+    height: 40px;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 10px;
+    background-color: #000000;
 }
