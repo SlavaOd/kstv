@@ -9,11 +9,11 @@ body {
     background-size: 100%;
 }
 .bg_top {
-    height: 320px;
+    height: 380px;
     width: 500px;
     background-image: url(./005814-KS-TV-noFTTB-A2-v-5mm.jpg);
     background-size: cover;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .apple {
@@ -23,7 +23,7 @@ body {
     background-size: contain;
     background-position: 50%;
     background-repeat: no-repeat;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .android {
@@ -33,7 +33,7 @@ body {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 50%;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .video {
