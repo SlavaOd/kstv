@@ -49,3 +49,44 @@ body {
     border-radius: 10px;
     background-color: #000000;
 }
+.btn_info {
+    background-color: transparent;
+    border: 1px solid transparent;
+    position: absolute;
+    right: 10px;
+    top: 25px;
+}
+.bi {
+    color: #fff;
+    width: 50px;
+    height: 50px;
+}
+.info_block {
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    color: #fff;
+    opacity: 0.9;
+}
+.close {
+    display: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    position: absolute;
+    right: 10px;
+    top: 25px;
+}
+.name_info {
+    text-align: center;
+    color: #fff;
+    margin-top: 100px;
+}
+
+.info_about {
+    text-align: center;
+    font-size: 18px;
+}
